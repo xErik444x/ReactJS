@@ -30,7 +30,7 @@ const Lista = () => {
                 <h2>Lista</h2>
                 <button type="button" className="btn btn-primary" onClick={agregarElemento}>Agregar</button>
                 {   //el index hay que pasarlo como atributo para que funcione
-                    arrayNumero.map((item, index) => <p key={index}>{index}-{item}</p>)
+                    arrayNumero.map((item, index) => <p key={index}>Key: <b>{index} </b> - Item: <b>{item}</b></p>)
                 }
             </div>
 
