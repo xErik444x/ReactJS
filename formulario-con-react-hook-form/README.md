@@ -1,6 +1,6 @@
 # Formulario con react-hook-form
 
-> un simple formulario haciendo usos de la libreria [react-hook-form](https://react-hook-form.com/get-started)
+> un simple formulario haciendo uso de la libreria [react-hook-form](https://react-hook-form.com/get-started)
 
 > Ver online: [Click acá](https://reacthooksformulario.netlify.app/)
 
