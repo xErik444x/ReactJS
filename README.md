@@ -11,3 +11,13 @@ Acá voy a estar subiendo mi progreso en reactJS
 > Se hace uso del jsx y useState para recorrer un array usando una key como parametro y modificarla
 
 > Link directo  : [Click aquí para ir a la web](https://readarraysjsxerik.netlify.app/)
+
+## Formulario
+
+> un simple formulario haciendo usos de hooks. 
+
+## Formulario con react-hook-form
+
+> un simple formulario haciendo usos de la libreria [react-hook-form](https://react-hook-form.com/get-started)
+
+> Ver online: [Click acá](https://reacthooksformulario.netlify.app/)
