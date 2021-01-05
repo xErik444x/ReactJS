@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 
 import 'bootswatch/dist/superhero/bootstrap.min.css';
 
-//sfc crea un stateless
+//sfc crea un stateless   
 const Lista = () => {
 
     const [arrayNumero, setarrayNumero] = useState([1]);
