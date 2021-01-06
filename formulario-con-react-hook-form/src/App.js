@@ -1,9 +1,10 @@
-import Formulario from './components/Formulario';
-
+// import Formulario from './components/Formulario';
+import EjemploUno from './components/EjemploUno';
 function App() {
   return (
     <div className="container mt-5">
-      <Formulario />
+      {/* <Formulario /> */}
+      <EjemploUno />
     </div>
   );
 }
