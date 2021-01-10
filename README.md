@@ -21,3 +21,11 @@ Acá voy a estar subiendo mi progreso en reactJS
 > formulario haciendo uso de la libreria [react-hook-form](https://react-hook-form.com/get-started) , se recojen los datos y se crea una tarjeta a partir de los inputs.
 
 > Ver online: [Click acá](https://reacthooksformulario.netlify.app/)
+
+## Props en Componentes
+
+> la idea de este proyecto es pasar props(variables) entre el componente principal y subcomponentes.
+
+> También hacer uso de los componentes para administrar mejor el codigo.
+
+> Ver online: [CLICK ACÁ](https://propsencomponentes1.netlify.app/)
